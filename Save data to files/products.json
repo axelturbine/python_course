@@ -1,0 +1,8 @@
+[
+    {"product": "Milk", "price": 25},
+    {"product": "Flour", "price": 82},
+    {"product": "Butter", "price": 60},
+    {"product": "Potatoes", "price": 150},
+    {"product": "Bread", "price": 50},
+    {"product": "Meat", "price": 289}
+]

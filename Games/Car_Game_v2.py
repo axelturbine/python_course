@@ -97,4 +97,5 @@ def main(screen):
         if not play_again:
             break
 
-curses.wrapper(main)
+def play():
+    curses.wrapper(main)
